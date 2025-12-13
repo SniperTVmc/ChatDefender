@@ -1,0 +1,51 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                      Information                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+# This is the configuration file for ChatDefender.
+
+# If you need help with the configuration of the plugin,
+# you can join our discord server at: https://discord.gg/fSzK79TAYf
+
+# For more information about how to configure ChatDefender,
+# check our Wiki at: https://sniper-tvmc.gitbook.io/chatdefender/configuration/main-configuration
+
+############################################################
+# +------------------------------------------------------+ #
+# |                        General                       | #
+# +------------------------------------------------------+ #
+############################################################
+
+general:
+
+  # Please do not change this value as it may cause the file to be reset.
+  # Default: "1.0"
+  configVersion: "1.0"
+
+  # If you want to see a detailed loading message when the plugin is loading, set this to true. (Also works for unloading)
+  # Default: false
+  detailedLoading: false
+
+  # Do you want to check for updates of the plugin?
+  # Default: true
+  checkForUpdates: true
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      Permissions                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+permissions:
+
+  admin:
+
+    # Change the permission needed to receive a message when an update of the plugin is available.
+    # Default: "chatdefender.admin.update"
+    updateAlert: "chatdefender.admin.update"
+
+    # Change the permission needed to bypass the analysis of sent messages
+    # Default: "chatdefender.admin.bypass"
+    bypassMessagesAnalysis: "chatdefender.admin.bypass"
