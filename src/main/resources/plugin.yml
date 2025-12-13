@@ -1,0 +1,9 @@
+main: fr.snipertvmc.chatdefender.Main
+
+
+name: ChatDefender
+author: Sniper_TVmc
+
+
+version: ${project.version}
+api-version: 1.21
