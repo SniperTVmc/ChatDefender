@@ -24,7 +24,7 @@ Requirements:
 
 *Coming soon...*
 
-## 📢 | Servers using EssentialsX-GUI
+## 📢 | Servers using ChatDefender
 
 Are you using our plugin and would like to add your server to the list?
 Join [Discord Server](https://discord.gg/fSzK79TAYf).
@@ -40,4 +40,4 @@ For support, join [Discord Server](https://discord.gg/fSzK79TAYf).
 ## 📝 | License
 
 This project is licensed under the
-[GNU General Public License v3.0](https://github.com/SniperTVmc/EssentialsX-GUI/blob/Main/LICENSE).
+[GNU General Public License v3.0](https://github.com/SniperTVmc/ChatDefender/blob/Main/LICENSE).
