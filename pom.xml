@@ -49,6 +49,14 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<!-- Moshi -->
+		<dependency>
+			<groupId>com.squareup.moshi</groupId>
+			<artifactId>moshi</artifactId>
+			<version>1.15.2</version>
+			<scope>provided</scope>
+		</dependency>
+
 		<!-- Libby -->
 		<dependency>
 			<groupId>net.byteflux</groupId>
